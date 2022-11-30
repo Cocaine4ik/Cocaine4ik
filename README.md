@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Alex
+- 👋 Hi, I’m Alex
 - 👀 I’m interested in Game Developing
 - 🌱 I’m currently learning Unreal Engine
 - 💞️ I’m looking to collaborate on Unreal Engine Projects
