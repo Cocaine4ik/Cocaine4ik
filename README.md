@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cocaine4ik
 - 👀 I’m interested in Game Developing
-- 🌱 I’m currently learning Unreal Enigne & C++
+- 🌱 I’m currently learning Unreal Engine
 - 💞️ I’m looking to collaborate on Unreal Engine Projects
 - 📫 How to reach me - cocaine4ik13@gmail.com or @Cocaine4ik in Telegram
 
