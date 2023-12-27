@@ -6,7 +6,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Cocaine4ik&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 
-
 <p align="left"> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
@@ -19,8 +18,20 @@
 <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a>
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-
 </p>
+
+<div id="badges">
+    <a href="[your-youtube-URL](https://www.youtube.com/channel/UCX5sUW0VbKgUbIAo6UVJv4w)">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    </a>
+  <a href="[your-twitter-URL](https://twitter.com/Cocaine4ik)">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="[your-itch.io-URL](https://cocaine4ik.itch.io/)">
+    <img src="https://img.shields.io/badge/itch.io-fa5c5c?logo=itch.io&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
 <!---
 Cocaine4ik/Cocaine4ik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
