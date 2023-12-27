@@ -21,13 +21,13 @@
 </p>
 
 <div id="badges">
-    <a href="[your-youtube-URL](https://www.youtube.com/channel/UCX5sUW0VbKgUbIAo6UVJv4w)">
+    <a href="https://www.youtube.com/channel/UCX5sUW0VbKgUbIAo6UVJv4w">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
-  <a href="[your-twitter-URL](https://twitter.com/Cocaine4ik)">
+  <a href="https://twitter.com/Cocaine4ik">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="[your-itch.io-URL](https://cocaine4ik.itch.io/)">
+  <a href="https://cocaine4ik.itch.io/">
     <img src="https://img.shields.io/badge/itch.io-fa5c5c?logo=itch.io&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
 </div>
